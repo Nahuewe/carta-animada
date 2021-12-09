@@ -4,7 +4,7 @@
 
 <h2 align="left"> cosas que aprendi: </h2>
   
-- algunos usos de "var()" y "calc()" (no fueron aplicados)
+- algunos usos de "var( )" y "calc( )" (no fueron aplicados)
   
 - nuevas formas de aplicar animaciones (transition, transform, delay, translate, focus)
   
