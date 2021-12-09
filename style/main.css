@@ -12,6 +12,8 @@ body {
     background: #000;
     font-family: sans-serif;
     padding-right: 0em;
+    background: rgb(109,98,166);
+    background: linear-gradient(175deg, rgba(109,98,166,1) 28%, rgba(0,0,0,1) 80%);
 }
 
 .card {
